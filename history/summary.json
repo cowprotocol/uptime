@@ -76,9 +76,9 @@
     "url": "https://cow.fi",
     "icon": "https://favicons.githubusercontent.com/cow.fi",
     "slug": "co-w-protocol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 222,
     "timeMonth": 196,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "CoW Protocol - Docs",
@@ -119,11 +121,11 @@
     "icon": "https://favicons.githubusercontent.com/api.cow.fi",
     "slug": "quote-api",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.34%",
     "time": 1949,
     "timeDay": 1611,
     "timeWeek": 1854,
