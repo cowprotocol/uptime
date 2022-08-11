@@ -76,19 +76,19 @@
     "url": "https://cow.fi",
     "icon": "https://favicons.githubusercontent.com/cow.fi",
     "slug": "co-w-protocol",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 181,
-    "timeWeek": 238,
-    "timeMonth": 237,
-    "timeYear": 195,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 205,
+    "timeDay": 824,
+    "timeWeek": 391,
+    "timeMonth": 275,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-08-11": 2
+      "2022-08-11": 11
     }
   },
   {
