@@ -4,19 +4,19 @@
     "url": "https://cowswap.exchange/",
     "icon": "https://favicons.githubusercontent.com/cowswap.exchange",
     "slug": "cow-swap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 578,
-    "timeWeek": 562,
-    "timeMonth": 547,
-    "timeYear": 561,
+    "time": 562,
+    "timeDay": 593,
+    "timeWeek": 569,
+    "timeMonth": 549,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2022-09-19": 0
+      "2022-09-19": 7
     }
   },
   {
