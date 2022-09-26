@@ -122,7 +122,7 @@
     "slug": "quote-api",
     "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "72.14%",
+    "uptimeDay": "72.13%",
     "uptimeWeek": "96.02%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "98.74%",
@@ -132,7 +132,7 @@
     "timeMonth": 1748,
     "timeYear": 1874,
     "dailyMinutesDown": {
-      "2022-09-26": 217,
+      "2022-09-26": 218,
       "2022-09-25": 184,
       "2022-06-24": 28,
       "2022-06-03": 408,
