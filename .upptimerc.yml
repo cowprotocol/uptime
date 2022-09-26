@@ -47,7 +47,7 @@ status-website:
     - title: GitHub
       href: https://github.com/cowprotocol/cowswap
     - title: Analytics
-      href: https://dune.xyz/gnosis.protocol/Gnosis-Protocol-V2
+      href: https://dune.com/cowprotocol/Gnosis-Protocol-V2
   assignees:
     - alfetopito
     - anxolin
