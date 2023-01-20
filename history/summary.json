@@ -22,9 +22,9 @@
     "url": "http://explorer.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.cow.fi.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 863,
     "timeMonth": 852,
     "timeYear": 830,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
   },
   {
     "name": "CowSwap - Barn",
@@ -120,9 +122,9 @@
     "url": "https://api.cow.fi/mainnet/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
@@ -132,6 +134,7 @@
     "timeMonth": 1551,
     "timeYear": 1676,
     "dailyMinutesDown": {
+      "2023-01-20": 0,
       "2022-09-26": 217,
       "2022-09-25": 184,
       "2022-06-24": 28,
