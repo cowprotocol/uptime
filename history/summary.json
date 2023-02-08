@@ -42,9 +42,9 @@
     "url": "https://barn.cowswap.exchange/",
     "icon": "https://icons.duckduckgo.com/ip3/barn.cowswap.exchange.ico",
     "slug": "cow-swap-barn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -54,6 +54,7 @@
     "timeMonth": 414,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2023-02-08": 0,
       "2022-09-04": 932
     }
   },
