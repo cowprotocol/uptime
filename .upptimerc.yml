@@ -3,13 +3,13 @@ repo: uptime
 
 sites:
   - name: CowSwap
-    url: https://cowswap.exchange/
+    url: https://swap.cow.fi/
 
   - name: Explorer
     url: http://explorer.cow.fi
 
   - name: "CowSwap - Barn"
-    url: https://barn.cowswap.exchange/
+    url: https://barn.cow.fi/
 
   - name: "Explorer - Barn"
     url: https://barn.explorer.cow.fi
