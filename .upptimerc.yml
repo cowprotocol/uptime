@@ -26,6 +26,9 @@ sites:
   - name: MEV Blocker
     url: https://mevblocker.io/
 
+  - name: CoW Swap Token List
+    url: https://files.cow.fi/tokens/CowSwap.json
+
   - name: Quote API
     method: POST
     url: https://api.cow.fi/mainnet/api/v1/quote
