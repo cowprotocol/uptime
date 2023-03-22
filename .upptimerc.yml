@@ -2,23 +2,26 @@ owner: cowprotocol
 repo: uptime
 
 sites:
-  - name: CowSwap
+  - name: CoW Swap
     url: https://swap.cow.fi/
 
   - name: Explorer
     url: http://explorer.cow.fi
 
-  - name: "CowSwap - Barn"
+  - name: CoW Swap - Barn
     url: https://barn.cow.fi/
 
   - name: "Explorer - Barn"
     url: https://barn.explorer.cow.fi
 
-  - name: "CoW Protocol"
+  - name: CoW Protocol
     url: https://cow.fi
 
-  - name: "CoW Protocol - Docs"
+  - name: CoW Protocol - Docs
     url: https://docs.cow.fi
+
+  - name: CoW Grants
+    url: https://grants.cow.fi/
 
   - name: MEV Blocker
     url: https://mevblocker.io/
