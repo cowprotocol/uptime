@@ -1,20 +1,20 @@
 [
   {
-    "name": "CowSwap",
+    "name": "CoW Swap",
     "url": "https://swap.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/swap.cow.fi.ico",
-    "slug": "cow-swap",
+    "slug": "co-w-swap",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 137,
-    "timeWeek": 166,
-    "timeMonth": 168,
-    "timeYear": 546,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
@@ -38,25 +38,22 @@
     }
   },
   {
-    "name": "CowSwap - Barn",
+    "name": "CoW Swap - Barn",
     "url": "https://barn.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/barn.cow.fi.ico",
-    "slug": "cow-swap-barn",
+    "slug": "co-w-swap-barn",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 465,
-    "timeDay": 137,
-    "timeWeek": 105,
-    "timeMonth": 175,
-    "timeYear": 465,
-    "dailyMinutesDown": {
-      "2023-02-08": 25,
-      "2022-09-04": 932
-    }
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Explorer - Barn",
@@ -117,6 +114,24 @@
       "2022-06-21": 20,
       "2022-06-18": 130
     }
+  },
+  {
+    "name": "CoW Grants",
+    "url": "https://grants.cow.fi/",
+    "icon": "https://icons.duckduckgo.com/ip3/grants.cow.fi.ico",
+    "slug": "co-w-grants",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MEV Blocker",
