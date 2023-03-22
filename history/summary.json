@@ -119,6 +119,24 @@
     }
   },
   {
+    "name": "MEV Blocker",
+    "url": "https://mevblocker.io/",
+    "icon": "https://icons.duckduckgo.com/ip3/mevblocker.io.ico",
+    "slug": "mev-blocker",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Quote API",
     "url": "https://api.cow.fi/mainnet/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
