@@ -20,6 +20,9 @@ sites:
   - name: "CoW Protocol - Docs"
     url: https://docs.cow.fi
 
+  - name: MEV Blocker
+    url: https://mevblocker.io/
+
   - name: Quote API
     method: POST
     url: https://api.cow.fi/mainnet/api/v1/quote
