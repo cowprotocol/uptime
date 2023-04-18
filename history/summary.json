@@ -42,9 +42,9 @@
     "url": "https://barn.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/barn.cow.fi.ico",
     "slug": "co-w-swap-barn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 167,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   },
   {
     "name": "Explorer - Barn",
@@ -120,9 +122,9 @@
     "url": "https://grants.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/grants.cow.fi.ico",
     "slug": "co-w-grants",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,7 +133,9 @@
     "timeWeek": 215,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   },
   {
     "name": "MEV Blocker",
@@ -156,9 +160,9 @@
     "url": "https://files.cow.fi/tokens/CowSwap.json",
     "icon": "https://icons.duckduckgo.com/ip3/files.cow.fi.ico",
     "slug": "co-w-swap-token-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,7 +171,9 @@
     "timeWeek": 97,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   },
   {
     "name": "Quote API",
@@ -182,7 +188,7 @@
     "uptimeYear": "99.32%",
     "time": 1635,
     "timeDay": 828,
-    "timeWeek": 1215,
+    "timeWeek": 1287,
     "timeMonth": 1458,
     "timeYear": 1612,
     "dailyMinutesDown": {
