@@ -42,19 +42,19 @@
     "url": "https://barn.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/barn.cow.fi.ico",
     "slug": "co-w-swap-barn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 87,
-    "timeWeek": 167,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 237,
+    "timeDay": 181,
+    "timeWeek": 180,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2023-04-18": 0
+      "2023-04-18": 15
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://grants.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/grants.cow.fi.ico",
     "slug": "co-w-grants",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 80,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 220,
+    "timeDay": 148,
     "timeWeek": 215,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-04-18": 0
+      "2023-04-18": 15
     }
   },
   {
@@ -160,19 +160,19 @@
     "url": "https://files.cow.fi/tokens/CowSwap.json",
     "icon": "https://icons.duckduckgo.com/ip3/files.cow.fi.ico",
     "slug": "co-w-swap-token-list",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 175,
-    "timeWeek": 97,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 147,
+    "timeDay": 124,
+    "timeWeek": 94,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-04-18": 0
+      "2023-04-18": 15
     }
   },
   {
@@ -188,7 +188,7 @@
     "uptimeYear": "99.32%",
     "time": 1635,
     "timeDay": 828,
-    "timeWeek": 1287,
+    "timeWeek": 1130,
     "timeMonth": 1458,
     "timeYear": 1612,
     "dailyMinutesDown": {
