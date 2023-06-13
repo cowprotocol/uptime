@@ -120,19 +120,19 @@
     "url": "https://grants.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/grants.cow.fi.ico",
     "slug": "co-w-grants",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 3235,
-    "timeWeek": 1025,
-    "timeMonth": 367,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 254,
+    "timeDay": 2385,
+    "timeWeek": 988,
+    "timeMonth": 377,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 22
     }
   },
   {
