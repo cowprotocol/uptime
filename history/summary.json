@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 178,
-    "timeWeek": 233,
+    "time": 185,
+    "timeDay": 83,
+    "timeWeek": 221,
     "timeMonth": 219,
-    "timeYear": 186,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 608,
-    "timeDay": 130,
-    "timeWeek": 204,
-    "timeMonth": 288,
-    "timeYear": 546,
+    "time": 607,
+    "timeDay": 111,
+    "timeWeek": 173,
+    "timeMonth": 279,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2023-01-20": 365
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 86,
-    "timeWeek": 163,
+    "time": 204,
+    "timeDay": 96,
+    "timeWeek": 151,
     "timeMonth": 182,
-    "timeYear": 205,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 269,
-    "timeWeek": 214,
+    "timeDay": 84,
+    "timeWeek": 197,
     "timeMonth": 184,
-    "timeYear": 361,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 86,
-    "timeWeek": 323,
-    "timeMonth": 269,
+    "timeDay": 59,
+    "timeWeek": 298,
+    "timeMonth": 265,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -103,13 +103,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 214,
-    "timeWeek": 250,
-    "timeMonth": 186,
-    "timeYear": 242,
-    "dailyMinutesDown": {
-      "2022-07-25": 28
-    }
+    "timeDay": 207,
+    "timeWeek": 252,
+    "timeMonth": 190,
+    "timeYear": 243,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CoW Grants",
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 390,
-    "timeDay": 206,
-    "timeWeek": 465,
-    "timeMonth": 519,
-    "timeYear": 390,
+    "time": 388,
+    "timeDay": 170,
+    "timeWeek": 372,
+    "timeMonth": 506,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2023-06-13": 40
     }
@@ -143,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 354,
-    "timeWeek": 260,
-    "timeMonth": 211,
+    "timeDay": 90,
+    "timeWeek": 234,
+    "timeMonth": 209,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -161,9 +159,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 77,
-    "timeWeek": 179,
-    "timeMonth": 127,
+    "timeDay": 124,
+    "timeWeek": 158,
+    "timeMonth": 129,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -178,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1606,
-    "timeDay": 1041,
-    "timeWeek": 1813,
-    "timeMonth": 1624,
-    "timeYear": 1520,
+    "time": 1604,
+    "timeDay": 913,
+    "timeWeek": 1749,
+    "timeMonth": 1628,
+    "timeYear": 1518,
     "dailyMinutesDown": {
       "2023-04-26": 125,
       "2023-04-11": 26,
