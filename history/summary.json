@@ -96,19 +96,19 @@
     "url": "https://docs.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/docs.cow.fi.ico",
     "slug": "co-w-protocol-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 309,
-    "timeWeek": 271,
-    "timeMonth": 197,
-    "timeYear": 242,
+    "time": 306,
+    "timeDay": 496,
+    "timeWeek": 338,
+    "timeMonth": 218,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-07-25": 0
+      "2023-07-25": 10
     }
   },
   {
