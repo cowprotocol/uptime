@@ -20,6 +20,9 @@ sites:
   - name: CoW Protocol - Docs
     url: https://docs.cow.fi
 
+  - name: CoW Protocol - Learn
+    url: https://learn.cow.fi
+
   - name: CoW Grants
     url: https://grants.cow.fi/
 
@@ -72,4 +75,3 @@ status-website:
     updateTemplate: "0 0 * * *"
     updates: "0 3 * * *"
     uptime: "*/5 * * * *"
-
