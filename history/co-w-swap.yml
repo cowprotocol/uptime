@@ -1,7 +1,7 @@
 url: https://swap.cow.fi/
-status: up
-code: 200
-responseTime: 80
-lastUpdated: 2024-01-16T23:02:13.187Z
+status: down
+code: 500
+responseTime: 436
+lastUpdated: 2024-01-17T21:42:51.115Z
 startTime: 2023-03-22T16:17:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
