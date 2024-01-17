@@ -1,7 +1,7 @@
 url: http://explorer.cow.fi
-status: up
-code: 200
-responseTime: 194
-lastUpdated: 2024-01-16T23:02:13.665Z
+status: down
+code: 500
+responseTime: 151
+lastUpdated: 2024-01-17T21:42:53.811Z
 startTime: 2022-04-03T21:35:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
