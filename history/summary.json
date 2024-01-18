@@ -60,19 +60,19 @@
     "url": "https://widget.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/widget.cow.fi.ico",
     "slug": "co-w-swap-widget",
-    "status": "down",
-    "uptime": "95.50%",
-    "uptimeDay": "95.50%",
-    "uptimeWeek": "95.50%",
-    "uptimeMonth": "95.50%",
-    "uptimeYear": "95.50%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "status": "up",
+    "uptime": "42.62%",
+    "uptimeDay": "42.62%",
+    "uptimeWeek": "42.62%",
+    "uptimeMonth": "42.62%",
+    "uptimeYear": "42.62%",
+    "time": 93,
+    "timeDay": 93,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-01-18": 0
+      "2024-01-18": 7
     }
   },
   {
