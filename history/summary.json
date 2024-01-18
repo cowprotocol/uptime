@@ -60,18 +60,20 @@
     "url": "https://widget.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/widget.cow.fi.ico",
     "slug": "co-w-swap-widget",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 107,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "95.50%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "95.50%",
+    "time": 101,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 101,
+    "timeYear": 101,
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "Explorer - Barn",
