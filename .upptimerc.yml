@@ -11,6 +11,9 @@ sites:
   - name: CoW Swap - Barn
     url: https://barn.cow.fi/
 
+  - name: CoW Swap - Widget
+    url: https://widget.cow.fi
+
   - name: "Explorer - Barn"
     url: https://barn.explorer.cow.fi
 
