@@ -63,9 +63,7 @@ status-website:
   assignees:
     - alfetopito
     - anxolin
-    - W3stside
-    - nenadV91
-    - biocom
+    - ahhda
   theme: dark
   workflowSchedule:
     graphs: "0 0 * * *"
