@@ -1,7 +1,7 @@
 url: https://grants.cow.fi/
-status: up
-code: 200
-responseTime: 681
-lastUpdated: 2024-05-13T19:16:55.592Z
+status: down
+code: 429
+responseTime: 385
+lastUpdated: 2024-05-13T19:31:45.466Z
 startTime: 2023-03-22T16:17:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
