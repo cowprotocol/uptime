@@ -148,9 +148,9 @@
     "url": "https://grants.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/grants.cow.fi.ico",
     "slug": "co-w-grants",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -160,6 +160,7 @@
     "timeMonth": 305,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2024-05-13": 0,
       "2023-10-13": 28,
       "2023-06-13": 40
     }
