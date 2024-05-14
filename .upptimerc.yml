@@ -26,9 +26,6 @@ sites:
   - name: CoW Protocol - Learn
     url: https://learn.cow.fi
 
-  - name: CoW Grants
-    url: https://grants.cow.fi/
-
   - name: MEV Blocker
     url: https://mevblocker.io/
 
