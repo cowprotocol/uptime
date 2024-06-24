@@ -130,19 +130,19 @@
     "url": "https://learn.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/learn.cow.fi.ico",
     "slug": "co-w-protocol-learn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 119,
-    "timeWeek": 239,
+    "time": 368,
+    "timeDay": 188,
+    "timeWeek": 241,
     "timeMonth": 274,
-    "timeYear": 369,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-06-24": 0
+      "2024-06-24": 4
     }
   },
   {
