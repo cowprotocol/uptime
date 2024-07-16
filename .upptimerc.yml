@@ -32,7 +32,7 @@ sites:
   - name: CoW Swap Token List
     url: https://files.cow.fi/tokens/CowSwap.json
 
-  - name: Quote API
+  - name: Quote API Mainnet
     method: POST
     url: https://api.cow.fi/mainnet/api/v1/quote
     headers: ["Content-Type: application/json"]
@@ -43,6 +43,32 @@ sites:
         "sellToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "buyToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "from": "0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B"
+      }
+
+  - name: Quote API Gnosis Chain
+    method: POST
+    url: https://api.cow.fi/xdai/api/v1/quote
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "kind": "sell",
+        "sellAmountBeforeFee": "10000000000000000000000",
+        "sellToken": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "buyToken": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+        "from": "0xC9Fe2D32E96Bb364c7d29f3663ed3b27E30767bB"
+      }
+
+  - name: Quote API Arbitrum One
+    method: POST
+    url: https://api.cow.fi/arbitrum_one/api/v1/quote
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "kind": "sell",
+        "sellAmountBeforeFee": "10000000000000000000",
+        "sellToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "buyToken": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
 status-website:
