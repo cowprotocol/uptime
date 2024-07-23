@@ -204,18 +204,20 @@
     "url": "https://api.cow.fi/xdai/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-gnosis-chain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2254,
-    "timeDay": 2685,
-    "timeWeek": 2254,
-    "timeMonth": 2254,
-    "timeYear": 2254,
-    "dailyMinutesDown": {}
+    "time": 2020,
+    "timeDay": 1418,
+    "timeWeek": 2020,
+    "timeMonth": 2020,
+    "timeYear": 2020,
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   },
   {
     "name": "Quote API Arbitrum One",
