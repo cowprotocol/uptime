@@ -168,9 +168,9 @@
     "url": "https://files.cow.fi/tokens/CowSwap.json",
     "icon": "https://icons.duckduckgo.com/ip3/files.cow.fi.ico",
     "slug": "co-w-swap-token-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +179,9 @@
     "timeWeek": 416,
     "timeMonth": 247,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-12": 0
+    }
   },
   {
     "name": "Quote API Mainnet",
