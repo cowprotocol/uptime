@@ -282,7 +282,7 @@
   },
   {
     "name": "BFF - Slippage Tolerance (Arbitrum One)",
-    "url": "https://bff.cow.fi/chains/100/markets/0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/slippageTolerance",
+    "url": "https://bff.cow.fi/chains/42161/markets/0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/slippageTolerance",
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-slippage-tolerance-arbitrum-one",
     "status": "up",
@@ -318,42 +318,42 @@
   },
   {
     "name": "BFF - USD Price (Gnosis Chain)",
-    "url": "https://bff.cow.fi/1/tokens/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/usdPrice",
+    "url": "https://bff.cow.fi/100/tokens/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/usdPrice",
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-usd-price-gnosis-chain",
     "status": "up",
-    "uptime": "0.66%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
+    "uptime": "4.09%",
+    "uptimeDay": "4.09%",
+    "uptimeWeek": "4.09%",
+    "uptimeMonth": "4.09%",
+    "uptimeYear": "4.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 1
+      "2024-08-14": 11
     }
   },
   {
     "name": "BFF - USD Price (Arbitrum One)",
-    "url": "https://bff.cow.fi/1/tokens/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/usdPrice",
+    "url": "https://bff.cow.fi/42161/tokens/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/usdPrice",
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-usd-price-arbitrum-one",
     "status": "up",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "uptime": "3.61%",
+    "uptimeDay": "3.61%",
+    "uptimeWeek": "3.61%",
+    "uptimeMonth": "3.61%",
+    "uptimeYear": "3.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 1
+      "2024-08-14": 11
     }
   },
   {
@@ -362,18 +362,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-token-search-mainnet",
     "status": "up",
-    "uptime": "0.41%",
-    "uptimeDay": "0.41%",
-    "uptimeWeek": "0.41%",
-    "uptimeMonth": "0.41%",
-    "uptimeYear": "0.41%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 1
+      "2024-08-14": 11
     }
   },
   {
@@ -382,18 +382,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-token-search-arbitrum-one",
     "status": "up",
-    "uptime": "0.37%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "0.37%",
-    "uptimeYear": "0.37%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 1
+      "2024-08-14": 11
     }
   }
 ]
