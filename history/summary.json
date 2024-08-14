@@ -322,11 +322,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-usd-price-gnosis-chain",
     "status": "up",
-    "uptime": "7.19%",
-    "uptimeDay": "7.19%",
-    "uptimeWeek": "7.19%",
-    "uptimeMonth": "7.19%",
-    "uptimeYear": "7.19%",
+    "uptime": "53.73%",
+    "uptimeDay": "53.73%",
+    "uptimeWeek": "53.73%",
+    "uptimeMonth": "53.73%",
+    "uptimeYear": "53.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -342,11 +342,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-usd-price-arbitrum-one",
     "status": "up",
-    "uptime": "6.75%",
-    "uptimeDay": "6.75%",
-    "uptimeWeek": "6.75%",
-    "uptimeMonth": "6.75%",
-    "uptimeYear": "6.75%",
+    "uptime": "53.62%",
+    "uptimeDay": "53.62%",
+    "uptimeWeek": "53.62%",
+    "uptimeMonth": "53.62%",
+    "uptimeYear": "53.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -362,18 +362,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-token-search-mainnet",
     "status": "up",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 11
+      "2024-08-14": 23
     }
   },
   {
@@ -393,7 +393,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 11
+      "2024-08-14": 23
     }
   }
 ]
