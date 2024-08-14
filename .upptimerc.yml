@@ -71,6 +71,40 @@ sites:
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
+  - name: BFF - Slippage Tolerance (mainnet)
+    url: https://bff.cow.fi/chains/1/markets/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB-0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/slippageTolerance
+
+  - name: BFF - Slippage Tolerance (Gnosis Chain)
+    url: https://bff.cow.fi/chains/100/markets/0x177127622c4a00f3d409b75571e12cb3c8973d3c-0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/slippageTolerance
+
+  - name: BFF - Slippage Tolerance (Arbitrum One)
+    url: https://bff.cow.fi/chains/100/markets/0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/slippageTolerance
+
+  - name: BFF - USD Price (mainnet)
+    url: https://bff.cow.fi/1/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/usdPrice
+
+  - name: BFF - USD Price (Gnosis Chain)
+    url: https://bff.cow.fi/1/tokens/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/usdPrice
+
+  - name: BFF - USD Price (Arbitrum One)
+    url: https://bff.cow.fi/1/tokens/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/usdPrice
+
+  - name: BFF - Token Search (mainnet)
+    url: https://bff.cow.fi/proxies/tokens
+    headers:
+      - "Content-Type: application/json"
+      - "Origin: cow.fi"
+    body: |
+      {"query":"\n  query SearchTokensWeb($searchQuery: String!, $chains: [Chain!]) {\n    searchTokens(searchQuery: $searchQuery, chains: $chains) {\n      ...SimpleTokenDetails\n      id\n      decimals\n      name\n      chain\n      standard\n      address\n      symbol\n      market(currency: USD) {\n        id\n        price {\n          id\n          value\n          currency\n          __typename\n        }\n        pricePercentChange(duration: DAY) {\n          id\n          value\n          __typename\n        }\n        volume24H: volume(duration: DAY) {\n          id\n          value\n          currency\n          __typename\n        }\n        __typename\n      }\n      project {\n        id\n        name\n        logo {\n          id\n          url\n          __typename\n        }\n        safetyLevel\n        logoUrl\n        isSpam\n        __typename\n      }\n      __typename\n    }\n  }\n\n  fragment SimpleTokenDetails on Token {\n    id\n    address\n    chain\n    symbol\n    name\n    decimals\n    standard\n    project {\n      id\n      name\n      logo {\n        id\n        url\n        __typename\n      }\n      safetyLevel\n      logoUrl\n      isSpam\n      __typename\n    }\n    __typename\n  }\n","variables":{"searchQuery":"crv","chains":["ETHEREUM"]},"operationName":"SearchTokensWeb"}
+
+  - name: BFF - Token Search (Arbitrum one)
+    url: https://bff.cow.fi/proxies/tokens
+    headers:
+      - "Content-Type: application/json"
+      - "Origin: cow.fi"
+    body: |
+      {"query":"\n  query SearchTokensWeb($searchQuery: String!, $chains: [Chain!]) {\n    searchTokens(searchQuery: $searchQuery, chains: $chains) {\n      ...SimpleTokenDetails\n      id\n      decimals\n      name\n      chain\n      standard\n      address\n      symbol\n      market(currency: USD) {\n        id\n        price {\n          id\n          value\n          currency\n          __typename\n        }\n        pricePercentChange(duration: DAY) {\n          id\n          value\n          __typename\n        }\n        volume24H: volume(duration: DAY) {\n          id\n          value\n          currency\n          __typename\n        }\n        __typename\n      }\n      project {\n        id\n        name\n        logo {\n          id\n          url\n          __typename\n        }\n        safetyLevel\n        logoUrl\n        isSpam\n        __typename\n      }\n      __typename\n    }\n  }\n\n  fragment SimpleTokenDetails on Token {\n    id\n    address\n    chain\n    symbol\n    name\n    decimals\n    standard\n    project {\n      id\n      name\n      logo {\n        id\n        url\n        __typename\n      }\n      safetyLevel\n      logoUrl\n      isSpam\n      __typename\n    }\n    __typename\n  }\n","variables":{"searchQuery":"crv","chains":["ARBITRUM"]},"operationName":"SearchTokensWeb"}
+
 status-website:
   cname: status.cow.fi
   baseUrl: /
