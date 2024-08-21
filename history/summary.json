@@ -244,5 +244,127 @@
       "2024-08-20": 7,
       "2024-08-06": 7
     }
+  },
+  {
+    "name": "BFF - Slippage Tolerance (mainnet)",
+    "url": "https://bff.cow.fi/chains/1/markets/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB-0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/slippageTolerance",
+    "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
+    "slug": "bff-slippage-tolerance-mainnet",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-08-21": 1
+    }
+  },
+  {
+    "name": "BFF - Slippage Tolerance (Gnosis Chain)",
+    "url": "https://bff.cow.fi/chains/100/markets/0x177127622c4a00f3d409b75571e12cb3c8973d3c-0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/slippageTolerance",
+    "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
+    "slug": "bff-slippage-tolerance-gnosis-chain",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-08-21": 1
+    }
+  },
+  {
+    "name": "BFF - Slippage Tolerance (Arbitrum One)",
+    "url": "https://bff.cow.fi/chains/42161/markets/0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/slippageTolerance",
+    "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
+    "slug": "bff-slippage-tolerance-arbitrum-one",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-08-21": 1
+    }
+  },
+  {
+    "name": "BFF - USD Price (mainnet)",
+    "url": "https://bff.cow.fi/1/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/usdPrice",
+    "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
+    "slug": "bff-usd-price-mainnet",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-08-21": 1
+    }
+  },
+  {
+    "name": "BFF - USD Price (Gnosis Chain)",
+    "url": "https://bff.cow.fi/100/tokens/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/usdPrice",
+    "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
+    "slug": "bff-usd-price-gnosis-chain",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-08-21": 1,
+      "2024-08-14": 11
+    }
+  },
+  {
+    "name": "BFF - USD Price (Arbitrum One)",
+    "url": "https://bff.cow.fi/42161/tokens/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/usdPrice",
+    "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
+    "slug": "bff-usd-price-arbitrum-one",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-08-21": 1,
+      "2024-08-14": 11
+    }
   }
 ]
