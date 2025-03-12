@@ -150,18 +150,20 @@
     "url": "https://mevblocker.io/",
     "icon": "https://icons.duckduckgo.com/ip3/mevblocker.io.ico",
     "slug": "mev-blocker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 151,
-    "timeWeek": 218,
+    "timeDay": 197,
+    "timeWeek": 221,
     "timeMonth": 218,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 1
+    }
   },
   {
     "name": "CoW Swap Token List",
