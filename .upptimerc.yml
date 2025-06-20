@@ -71,7 +71,7 @@ sites:
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
-  - name: Quote API Base # DAI - USDC
+  - name: Quote API Base # WETH - USDC
     method: POST
     url: https://api.cow.fi/base/api/v1/quote
     headers: ["Content-Type: application/json"]
@@ -79,12 +79,12 @@ sites:
       {
         "kind": "sell",
         "sellAmountBeforeFee": "10000000000000000000",
-        "sellToken": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "sellToken": "0x4200000000000000000000000000000000000006",
         "buyToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
-  - name: Quote API Avalanche # USDT - USDC
+  - name: Quote API Avalanche # WAVAX - USDC
     method: POST
     url: https://api.cow.fi/avalanche/api/v1/quote
     headers: ["Content-Type: application/json"]
@@ -92,12 +92,12 @@ sites:
       {
         "kind": "sell",
         "sellAmountBeforeFee": "10000000000000000000",
-        "sellToken": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+        "sellToken": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
         "buyToken": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
-  - name: Quote API Polygon # DAI - USDC
+  - name: Quote API Polygon # WPOL - USDC
     method: POST
     url: https://api.cow.fi/polygon/api/v1/quote
     headers: ["Content-Type: application/json"]
@@ -105,7 +105,7 @@ sites:
       {
         "kind": "sell",
         "sellAmountBeforeFee": "10000000000000000000",
-        "sellToken": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063", 
+        "sellToken": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270", 
         "buyToken": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
