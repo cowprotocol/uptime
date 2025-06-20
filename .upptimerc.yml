@@ -32,7 +32,7 @@ sites:
   - name: CoW Swap Token List
     url: https://files.cow.fi/tokens/CowSwap.json
 
-  - name: Quote API Mainnet
+  - name: Quote API Mainnet # WETH - USDC
     method: POST
     url: https://api.cow.fi/mainnet/api/v1/quote
     headers: ["Content-Type: application/json"]
@@ -45,7 +45,7 @@ sites:
         "from": "0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B"
       }
 
-  - name: Quote API Gnosis Chain
+  - name: Quote API Gnosis Chain # WXDAI - USDC
     method: POST
     url: https://api.cow.fi/xdai/api/v1/quote
     headers: ["Content-Type: application/json"]
@@ -53,12 +53,12 @@ sites:
       {
         "kind": "sell",
         "sellAmountBeforeFee": "10000000000000000000000",
-        "sellToken": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
-        "buyToken": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+        "sellToken": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d", # WXDAI
+        "buyToken": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83", # USDC
         "from": "0xC9Fe2D32E96Bb364c7d29f3663ed3b27E30767bB"
       }
 
-  - name: Quote API Arbitrum One
+  - name: Quote API Arbitrum One # WETH - USDC
     method: POST
     url: https://api.cow.fi/arbitrum_one/api/v1/quote
     headers: ["Content-Type: application/json"]
@@ -71,23 +71,80 @@ sites:
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
-  - name: BFF - Slippage Tolerance (mainnet)
+  - name: Quote API Base # DAI - USDC
+    method: POST
+    url: https://api.cow.fi/base/api/v1/quote
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "kind": "sell",
+        "sellAmountBeforeFee": "10000000000000000000",
+        "sellToken": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "buyToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+      }
+
+  - name: Quote API Avalanche # USDT - USDC
+    method: POST
+    url: https://api.cow.fi/avalanche/api/v1/quote
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "kind": "sell",
+        "sellAmountBeforeFee": "10000000000000000000",
+        "sellToken": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+        "buyToken": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+        "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+      }
+
+  - name: Quote API Polygon # DAI - USDC
+    method: POST
+    url: https://api.cow.fi/polygon/api/v1/quote
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "kind": "sell",
+        "sellAmountBeforeFee": "10000000000000000000",
+        "sellToken": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063", 
+        "buyToken": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+      }
+
+  - name: BFF - Slippage Tolerance (mainnet) # COW - WETH
     url: https://bff.cow.fi/1/markets/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB-0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/slippageTolerance
 
-  - name: BFF - Slippage Tolerance (Gnosis Chain)
+  - name: BFF - Slippage Tolerance (Gnosis Chain) # COW - WXDAI
     url: https://bff.cow.fi/100/markets/0x177127622c4a00f3d409b75571e12cb3c8973d3c-0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/slippageTolerance
 
-  - name: BFF - Slippage Tolerance (Arbitrum One)
+  - name: BFF - Slippage Tolerance (Arbitrum One) # COW - WETH
     url: https://bff.cow.fi/42161/markets/0xcb8b5cd20bdcaea9a010ac1f8d835824f5c87a04-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/slippageTolerance
 
-  - name: BFF - USD Price (mainnet)
+  - name: BFF - Slippage Tolerance (Base) # COW - WETH
+    url: https://bff.cow.fi/8453/markets/0xc694a91e6b071bF030A18BD3053A7fE09B6DaE69-0x4200000000000000000000000000000000000006/slippageTolerance
+
+  - name: BFF - Slippage Tolerance (Avalanche) # USDT - WAVAX
+    url: https://bff.cow.fi/43114/markets/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7-0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/slippageTolerance
+
+  - name: BFF - Slippage Tolerance (Polygon) # DAI - WPOL
+    url: https://bff.cow.fi/137/markets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063-0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/slippageTolerance
+
+  - name: BFF - USD Price (mainnet) # WETH
     url: https://bff.cow.fi/1/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/usdPrice
 
-  - name: BFF - USD Price (Gnosis Chain)
+  - name: BFF - USD Price (Gnosis Chain) # WXDAI
     url: https://bff.cow.fi/100/tokens/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/usdPrice
 
-  - name: BFF - USD Price (Arbitrum One)
+  - name: BFF - USD Price (Arbitrum One) # WETH
     url: https://bff.cow.fi/42161/tokens/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/usdPrice
+
+  - name: BFF - USD Price (Base) # WETH
+    url: https://bff.cow.fi/8453/tokens/0x4200000000000000000000000000000000000006/usdPrice
+
+  - name: BFF - USD Price (Avalanche) # WAVAX
+    url: https://bff.cow.fi/43114/tokens/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/usdPrice
+
+  - name: BFF - USD Price (Polygon) # WPOL
+    url: https://bff.cow.fi/137/tokens/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/usdPrice
 
 status-website:
   cname: status.cow.fi
