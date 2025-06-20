@@ -53,8 +53,8 @@ sites:
       {
         "kind": "sell",
         "sellAmountBeforeFee": "10000000000000000000000",
-        "sellToken": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d", # WXDAI
-        "buyToken": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83", # USDC
+        "sellToken": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "buyToken": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
         "from": "0xC9Fe2D32E96Bb364c7d29f3663ed3b27E30767bB"
       }
 
