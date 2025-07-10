@@ -309,19 +309,19 @@
     "url": "https://api.cow.fi/polygon/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-polygon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2792,
-    "timeDay": 783,
-    "timeWeek": 2804,
-    "timeMonth": 2792,
-    "timeYear": 2792,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2889,
+    "timeDay": 2225,
+    "timeWeek": 3060,
+    "timeMonth": 2889,
+    "timeYear": 2889,
     "dailyMinutesDown": {
-      "2025-07-10": 0
+      "2025-07-10": 9
     }
   },
   {
