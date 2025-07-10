@@ -309,18 +309,20 @@
     "url": "https://api.cow.fi/polygon/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-polygon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2914,
-    "timeDay": 1452,
-    "timeWeek": 3188,
-    "timeMonth": 2914,
-    "timeYear": 2914,
-    "dailyMinutesDown": {}
+    "time": 2792,
+    "timeDay": 783,
+    "timeWeek": 2804,
+    "timeMonth": 2792,
+    "timeYear": 2792,
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "BFF - Slippage Tolerance (mainnet)",
