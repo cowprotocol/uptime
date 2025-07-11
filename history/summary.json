@@ -274,18 +274,20 @@
     "url": "https://api.cow.fi/base/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-base",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2600,
-    "timeDay": 1236,
-    "timeWeek": 2646,
-    "timeMonth": 2600,
-    "timeYear": 2600,
-    "dailyMinutesDown": {}
+    "time": 2525,
+    "timeDay": 1012,
+    "timeWeek": 2413,
+    "timeMonth": 2525,
+    "timeYear": 2525,
+    "dailyMinutesDown": {
+      "2025-07-11": 1
+    }
   },
   {
     "name": "Quote API Avalanche",
