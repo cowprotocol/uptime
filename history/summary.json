@@ -4,10 +4,10 @@
     "url": "https://swap.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/swap.cow.fi.ico",
     "slug": "co-w-swap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
@@ -15,17 +15,19 @@
     "timeWeek": 135,
     "timeMonth": 187,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 1
+    }
   },
   {
     "name": "Explorer",
     "url": "http://explorer.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.cow.fi.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
@@ -33,17 +35,19 @@
     "timeWeek": 220,
     "timeMonth": 388,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 1
+    }
   },
   {
     "name": "CoW Swap - Barn",
     "url": "https://barn.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/barn.cow.fi.ico",
     "slug": "co-w-swap-barn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
@@ -51,35 +55,39 @@
     "timeWeek": 203,
     "timeMonth": 214,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 1
+    }
   },
   {
     "name": "CoW Swap - Widget",
     "url": "https://widget.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/widget.cow.fi.ico",
     "slug": "co-w-swap-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
+    "time": 188,
     "timeDay": 54,
     "timeWeek": 122,
     "timeMonth": 184,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 1
+    }
   },
   {
     "name": "Explorer - Barn",
     "url": "https://barn.explorer.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/barn.explorer.cow.fi.ico",
     "slug": "explorer-barn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
@@ -87,35 +95,39 @@
     "timeWeek": 141,
     "timeMonth": 159,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 1
+    }
   },
   {
     "name": "CoW Protocol",
     "url": "https://cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/cow.fi.ico",
     "slug": "co-w-protocol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
+    "time": 156,
     "timeDay": 91,
     "timeWeek": 92,
     "timeMonth": 142,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 1
+    }
   },
   {
     "name": "CoW Protocol - Docs",
     "url": "https://docs.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/docs.cow.fi.ico",
     "slug": "co-w-protocol-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
@@ -123,43 +135,48 @@
     "timeWeek": 118,
     "timeMonth": 176,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 1
+    }
   },
   {
     "name": "CoW Protocol - Learn",
     "url": "https://learn.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/learn.cow.fi.ico",
     "slug": "co-w-protocol-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
+    "time": 305,
     "timeDay": 159,
     "timeWeek": 224,
     "timeMonth": 241,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-14": 1
+    }
   },
   {
     "name": "MEV Blocker",
     "url": "https://mevblocker.io/",
     "icon": "https://icons.duckduckgo.com/ip3/mevblocker.io.ico",
     "slug": "mev-blocker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
+    "time": 242,
     "timeDay": 129,
     "timeWeek": 194,
     "timeMonth": 207,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2025-07-14": 1,
       "2025-03-12": 11
     }
   },
@@ -313,11 +330,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-polygon",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2782,
     "timeDay": 1833,
     "timeWeek": 2324,
