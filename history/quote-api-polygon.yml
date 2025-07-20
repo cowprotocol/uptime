@@ -1,7 +1,7 @@
 url: https://api.cow.fi/polygon/api/v1/quote
-status: down
-code: 403
-responseTime: 7
-lastUpdated: 2025-07-20T05:41:39.159Z
+status: up
+code: 200
+responseTime: 1949
+lastUpdated: 2025-07-20T15:21:30.781Z
 startTime: 2025-06-20T14:21:15.264Z
 generator: Upptime <https://github.com/upptime/upptime>
