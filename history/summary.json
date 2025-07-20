@@ -4,9 +4,9 @@
     "url": "https://swap.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/swap.cow.fi.ico",
     "slug": "co-w-swap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.44%",
+    "uptimeDay": "98.39%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -14,9 +14,9 @@
     "timeDay": 334,
     "timeWeek": 228,
     "timeMonth": 185,
-    "timeYear": 198,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 13
     }
   },
@@ -25,10 +25,10 @@
     "url": "http://explorer.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.cow.fi.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 250,
@@ -37,7 +37,7 @@
     "timeMonth": 261,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 13
     }
   },
@@ -46,10 +46,10 @@
     "url": "https://barn.cow.fi/",
     "icon": "https://icons.duckduckgo.com/ip3/barn.cow.fi.ico",
     "slug": "co-w-swap-barn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 180,
@@ -58,7 +58,7 @@
     "timeMonth": 238,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 13
     }
   },
@@ -67,10 +67,10 @@
     "url": "https://widget.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/widget.cow.fi.ico",
     "slug": "co-w-swap-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 180,
@@ -79,7 +79,7 @@
     "timeMonth": 195,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 14
     }
   },
@@ -88,10 +88,10 @@
     "url": "https://barn.explorer.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/barn.explorer.cow.fi.ico",
     "slug": "explorer-barn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 159,
@@ -100,7 +100,7 @@
     "timeMonth": 159,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 14
     }
   },
@@ -109,19 +109,19 @@
     "url": "https://cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/cow.fi.ico",
     "slug": "co-w-protocol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 157,
+    "time": 156,
     "timeDay": 137,
     "timeWeek": 169,
     "timeMonth": 155,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 14
     }
   },
@@ -130,10 +130,10 @@
     "url": "https://docs.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/docs.cow.fi.ico",
     "slug": "co-w-protocol-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 175,
@@ -142,7 +142,7 @@
     "timeMonth": 199,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 14
     }
   },
@@ -151,19 +151,19 @@
     "url": "https://learn.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/learn.cow.fi.ico",
     "slug": "co-w-protocol-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 302,
+    "time": 292,
     "timeDay": 246,
     "timeWeek": 240,
     "timeMonth": 251,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 14
     }
   },
@@ -172,10 +172,10 @@
     "url": "https://mevblocker.io/",
     "icon": "https://icons.duckduckgo.com/ip3/mevblocker.io.ico",
     "slug": "mev-blocker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 242,
@@ -184,7 +184,7 @@
     "timeMonth": 205,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-07-20": 22,
+      "2025-07-20": 23,
       "2025-07-14": 14,
       "2025-03-12": 11
     }
