@@ -176,3 +176,4 @@ status-website:
     uptime: "*/5 * * * *"
 
 skipDeleteIssues: true
+delay: 2000 # 2 seconds
