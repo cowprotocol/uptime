@@ -24,7 +24,7 @@ on:
 jobs:
   release:
     name: Deploy updates
-    runs-on: [cowprotocol-ubuntu-latest]
+    runs-on: cowprotocol-ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
