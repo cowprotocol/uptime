@@ -24,7 +24,7 @@ on:
 jobs:
   release:
     name: Check status
-    runs-on: ubuntu-latest
+    runs-on: [cowprotocol-ubuntu-latest]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
