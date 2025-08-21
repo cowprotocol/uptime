@@ -110,6 +110,19 @@ sites:
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
+  - name: Quote API Lens # WGHO - USDC
+    method: POST
+    url: https://api.cow.fi/lens/api/v1/quote
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "kind": "sell",
+        "sellAmountBeforeFee": "10000000000000000000",
+        "sellToken": "0x6bDc36E20D267Ff0dd6097799f82e78907105e2F", 
+        "buyToken": "0x88F08E304EC4f90D644Cec3Fb69b8aD414acf884",
+        "from": "0xd16F39990092033EE2faB400Bf3364379c616c4E"
+      }
+
   - name: BFF - Slippage Tolerance (mainnet) # COW - WETH
     url: https://bff.cow.fi/1/markets/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB-0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/slippageTolerance
 
