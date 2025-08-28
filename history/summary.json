@@ -544,19 +544,19 @@
     "url": "https://bff.cow.fi/137/markets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063-0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/slippageTolerance",
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-slippage-tolerance-polygon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 440,
-    "timeWeek": 590,
-    "timeMonth": 493,
-    "timeYear": 536,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 535,
+    "timeDay": 435,
+    "timeWeek": 574,
+    "timeMonth": 491,
+    "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-08-28": 1
+      "2025-08-28": 30
     }
   },
   {
