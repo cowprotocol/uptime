@@ -427,11 +427,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-lens",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "99.09%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 1356,
     "timeDay": 1857,
     "timeWeek": 1356,
@@ -544,10 +544,10 @@
     "url": "https://bff.cow.fi/137/markets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063-0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/slippageTolerance",
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-slippage-tolerance-polygon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
@@ -555,7 +555,9 @@
     "timeWeek": 590,
     "timeMonth": 493,
     "timeYear": 536,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 1
+    }
   },
   {
     "name": "BFF - USD Price (mainnet)",
