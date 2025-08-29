@@ -1,7 +1,7 @@
 url: https://api.cow.fi/avalanche/api/v1/quote
-status: down
-code: 403
-responseTime: 2
-lastUpdated: 2025-08-29T12:28:09.692Z
+status: up
+code: 200
+responseTime: 2311
+lastUpdated: 2025-08-29T15:15:15.599Z
 startTime: 2025-06-20T14:21:13.993Z
 generator: Upptime <https://github.com/upptime/upptime>
