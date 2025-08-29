@@ -1,7 +1,7 @@
 url: https://api.cow.fi/mainnet/api/v1/quote
-status: down
-code: 403
-responseTime: 39
-lastUpdated: 2025-08-29T12:27:53.070Z
+status: up
+code: 200
+responseTime: 4973
+lastUpdated: 2025-08-29T15:14:45.483Z
 startTime: 2024-07-16T13:59:57.782Z
 generator: Upptime <https://github.com/upptime/upptime>
