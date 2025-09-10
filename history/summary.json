@@ -474,18 +474,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-bnb",
     "status": "up",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-10": 1
+      "2025-09-10": 2
     }
   },
   {
