@@ -1,7 +1,7 @@
 url: https://api.cow.fi/bnb/api/v1/quote
-status: down
-code: 404
-responseTime: 1832
-lastUpdated: 2025-09-17T14:28:20.852Z
+status: up
+code: 200
+responseTime: 193
+lastUpdated: 2025-09-17T14:38:26.714Z
 startTime: 2025-09-10T11:02:20.947Z
 generator: Upptime <https://github.com/upptime/upptime>
