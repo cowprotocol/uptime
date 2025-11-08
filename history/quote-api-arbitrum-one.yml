@@ -1,7 +1,7 @@
 url: https://api.cow.fi/arbitrum_one/api/v1/quote
-status: down
-code: 503
-responseTime: 6
-lastUpdated: 2025-11-08T07:04:14.627Z
+status: up
+code: 200
+responseTime: 27828
+lastUpdated: 2025-11-08T07:15:28.699Z
 startTime: 2024-07-16T14:00:04.319Z
 generator: Upptime <https://github.com/upptime/upptime>
