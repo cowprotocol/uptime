@@ -136,6 +136,19 @@ sites:
         "from": "0x21a31Ee1afC51d94C2eFcCAa2092aD1028285549"
       }  
 
+  - name: Quote API LINEA # USDT - USDC
+    method: POST
+    url: https://api.cow.fi/linea/api/v1/quote
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "kind": "sell",
+        "sellAmountBeforeFee": "10000000",
+        "sellToken": "0xa219439258ca9da29e9cc4ce5596924745e12b93", 
+        "buyToken": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+        "from": "0x5dc74003c0a9d08eb750b10ed5b02fa7d58d4d1e"
+      }
+
   - name: BFF - Slippage Tolerance (mainnet) # COW - WETH
     url: https://bff.cow.fi/1/markets/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB-0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/slippageTolerance
 
