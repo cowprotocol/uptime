@@ -1,7 +1,7 @@
 url: https://bff.cow.fi/8453/tokens/0x4200000000000000000000000000000000000006/usdPrice
-status: up
-code: 200
-responseTime: 39
-lastUpdated: 2026-01-11T23:04:32.390Z
+status: down
+code: 404
+responseTime: 19
+lastUpdated: 2026-01-12T17:46:42.646Z
 startTime: 2025-06-20T14:21:23.917Z
 generator: Upptime <https://github.com/upptime/upptime>
