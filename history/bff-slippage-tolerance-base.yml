@@ -1,7 +1,7 @@
 url: https://bff.cow.fi/8453/markets/0xc694a91e6b071bF030A18BD3053A7fE09B6DaE69-0x4200000000000000000000000000000000000006/slippageTolerance
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-12T17:59:34.801Z
+status: up
+code: 200
+responseTime: 229
+lastUpdated: 2026-01-12T18:13:23.352Z
 startTime: 2025-06-20T14:21:20.199Z
 generator: Upptime <https://github.com/upptime/upptime>
