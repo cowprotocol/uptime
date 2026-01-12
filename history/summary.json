@@ -620,29 +620,31 @@
     "url": "https://bff.cow.fi/8453/markets/0xc694a91e6b071bF030A18BD3053A7fE09B6DaE69-0x4200000000000000000000000000000000000006/slippageTolerance",
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-slippage-tolerance-base",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 381,
     "timeDay": 201,
     "timeWeek": 306,
     "timeMonth": 298,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-12": 4
+    }
   },
   {
     "name": "BFF - Slippage Tolerance (Avalanche)",
     "url": "https://bff.cow.fi/43114/markets/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7-0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7/slippageTolerance",
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-slippage-tolerance-avalanche",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 399,
     "timeDay": 225,
@@ -650,6 +652,7 @@
     "timeMonth": 315,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2026-01-12": 2,
       "2025-10-08": 12
     }
   },
@@ -680,9 +683,9 @@
     "slug": "bff-usd-price-mainnet",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
     "time": 114,
     "timeDay": 20,
@@ -690,7 +693,7 @@
     "timeMonth": 22,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2026-01-12": 6,
+      "2026-01-12": 17,
       "2026-01-05": 38,
       "2026-01-02": 35,
       "2025-12-24": 35,
@@ -753,9 +756,9 @@
     "slug": "bff-usd-price-base",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 50,
     "timeDay": 29,
@@ -763,7 +766,7 @@
     "timeMonth": 18,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2026-01-12": 6,
+      "2026-01-12": 17,
       "2026-01-05": 38,
       "2025-08-04": 12
     }
