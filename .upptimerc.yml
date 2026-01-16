@@ -187,7 +187,7 @@ sites:
 
 status-website:
   cname: status.cow.fi
-  baseUrl: /
+  baseUrl: ""
   # baseUrl: /cow-uptime
   logoUrl: https://raw.githubusercontent.com/cowprotocol/uptime/master/assets/CowSwap-logo.svg
   name: Upptime
