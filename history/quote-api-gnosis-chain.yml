@@ -1,7 +1,7 @@
 url: https://api.cow.fi/xdai/api/v1/quote
-status: up
-code: 200
-responseTime: 1087
-lastUpdated: 2026-01-25T23:03:52.247Z
+status: down
+code: 404
+responseTime: 14
+lastUpdated: 2026-01-26T18:48:13.644Z
 startTime: 2024-07-16T14:00:02.720Z
 generator: Upptime <https://github.com/upptime/upptime>
