@@ -149,6 +149,19 @@ sites:
         "from": "0x5dc74003c0a9d08eb750b10ed5b02fa7d58d4d1e"
       }
 
+  - name: Quote API Ink # WETH - USDC
+    method: POST
+    url: https://api.cow.fi/ink/api/v1/quote
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "kind": "sell",
+        "sellAmountBeforeFee": "10000000000000000000",
+        "sellToken": "0x4200000000000000000000000000000000000006",
+        "buyToken": "0x2D270e6886d130D724215A266106e6832161EAEd",
+        "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+      }
+
   - name: BFF - Slippage Tolerance (mainnet) # COW - WETH
     url: https://bff.cow.fi/1/markets/0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB-0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/slippageTolerance
 
