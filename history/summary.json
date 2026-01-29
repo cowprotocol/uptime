@@ -551,18 +551,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-ink",
     "status": "up",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "28.49%",
+    "uptimeDay": "28.49%",
+    "uptimeWeek": "28.49%",
+    "uptimeMonth": "28.49%",
+    "uptimeYear": "28.49%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-29": 3
+      "2026-01-29": 12
     }
   },
   {
