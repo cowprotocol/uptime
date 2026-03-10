@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.cow.fi): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://status.cow.fi): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [CoW Protocol](cow.fi), powered by [Upptime](https://github.com/upptime/upptime).
 
