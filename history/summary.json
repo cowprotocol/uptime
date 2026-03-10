@@ -462,36 +462,6 @@
     }
   },
   {
-    "name": "Quote API Lens",
-    "url": "https://api.cow.fi/lens/api/v1/quote",
-    "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
-    "slug": "quote-api-lens",
-    "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "95.51%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.23%",
-    "time": 501,
-    "timeDay": 147,
-    "timeWeek": 173,
-    "timeMonth": 244,
-    "timeYear": 501,
-    "dailyMinutesDown": {
-      "2026-03-10": 65,
-      "2026-03-07": 68,
-      "2026-02-14": 62,
-      "2025-12-03": 34,
-      "2025-12-02": 4,
-      "2025-11-03": 10,
-      "2025-09-01": 576,
-      "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1378,
-      "2025-08-27": 13
-    }
-  },
-  {
     "name": "Quote API BNB",
     "url": "https://api.cow.fi/bnb/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
