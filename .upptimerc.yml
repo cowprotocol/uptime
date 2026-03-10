@@ -110,19 +110,6 @@ sites:
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
-  - name: Quote API Lens # WGHO - USDC
-    method: POST
-    url: https://api.cow.fi/lens/api/v1/quote
-    headers: ["Content-Type: application/json"]
-    body: |
-      {
-        "kind": "sell",
-        "sellAmountBeforeFee": "10000000000000000000",
-        "sellToken": "0x6bDc36E20D267Ff0dd6097799f82e78907105e2F", 
-        "buyToken": "0x88F08E304EC4f90D644Cec3Fb69b8aD414acf884",
-        "from": "0xd16F39990092033EE2faB400Bf3364379c616c4E"
-      }
-
   - name: Quote API BNB # USDT - WBNB
     method: POST
     url: https://api.cow.fi/bnb/api/v1/quote
