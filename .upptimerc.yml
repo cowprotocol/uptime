@@ -145,7 +145,7 @@ sites:
         "kind": "sell",
         "sellAmountBeforeFee": "10000000000000000000",
         "sellToken": "0x4200000000000000000000000000000000000006",
-        "buyToken": "0x2D270e6886d130D724215A266106e6832161EAEd",
+        "buyToken": "0x0200C29006150606B650577BBE7B6248F58470c1",
         "from": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
       }
 
