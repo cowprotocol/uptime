@@ -1,7 +1,7 @@
 url: https://api.cow.fi/ink/api/v1/quote
-status: down
-code: 404
-responseTime: 2891
-lastUpdated: 2026-03-20T01:00:41.153Z
+status: up
+code: 200
+responseTime: 403
+lastUpdated: 2026-03-20T01:41:47.115Z
 startTime: 2026-02-20T11:38:43.327Z
 generator: Upptime <https://github.com/upptime/upptime>
