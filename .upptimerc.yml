@@ -189,8 +189,9 @@ status-website:
   cname: status.cow.fi
   baseUrl: ""
   # baseUrl: /cow-uptime
-  logoUrl: https://raw.githubusercontent.com/cowprotocol/uptime/master/assets/CowSwap-logo.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/cowprotocol/uptime/master/assets/CowSwap-logo.png
+  faviconSvg: https://raw.githubusercontent.com/cowprotocol/uptime/master/assets/CowSwap-logo.png
+  name: CoW Protocol Status
   introTitle: "Status for CowSwap"
   introMessage: Check the availability for CowSwap.
   navbar:
