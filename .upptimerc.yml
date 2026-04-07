@@ -217,4 +217,4 @@ status-website:
 
 skipDeleteIssues: true
 delay: 2000 # 2 seconds
-runner: "cowprotocol-ubuntu-latest"
+runner: "ubuntu-latest"
