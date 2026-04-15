@@ -16,10 +16,12 @@
 
 name: Update Template CI
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  repository_dispatch:
-    types: [update_template]
+  # Disabled: Upptime template regeneration rewrites pinned workflow SHAs
+  # and breaks org policy that requires full-length commit pins.
+  # schedule:
+  # - cron: "0 0 * * *"
+  # repository_dispatch:
+  #   types: [update_template]
   workflow_dispatch:
 jobs:
   release:
@@ -31,9 +33,11 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
-      - name: Update template
-        uses: upptime/uptime-monitor@0b98676cda3ea664029aa354e4fab09d8b130f5f # master
-        with:
-          command: "update-template"
-        env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      # Disabled: Upptime template regeneration rewrites pinned workflow SHAs
+      # and breaks org policy that requires full-length commit pins.
+      # - name: Update template
+      #   uses: upptime/uptime-monitor@0b98676cda3ea664029aa354e4fab09d8b130f5f # master
+      #   with:
+      #     command: "update-template"
+      #   env:
+      #     GH_PAT: ${{ secrets.GH_PAT || github.token }}
