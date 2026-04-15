@@ -1,7 +1,7 @@
-url: https://api.cow.finance/base/api/v1/quote
+url: https://api.cow.fi/base/api/v1/quote
 status: up
 code: 200
-responseTime: 3086
-lastUpdated: 2026-04-15T15:01:39.466Z
+responseTime: 3094
+lastUpdated: 2026-04-15T18:14:49.185Z
 startTime: 2025-06-20T14:21:11.900Z
 generator: Upptime <https://github.com/upptime/upptime>

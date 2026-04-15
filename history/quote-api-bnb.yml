@@ -1,7 +1,7 @@
-url: https://api.cow.finance/bnb/api/v1/quote
+url: https://api.cow.fi/bnb/api/v1/quote
 status: up
 code: 200
-responseTime: 924
-lastUpdated: 2026-04-15T15:01:50.914Z
+responseTime: 956
+lastUpdated: 2026-04-15T18:15:01.672Z
 startTime: 2025-09-10T11:02:20.947Z
 generator: Upptime <https://github.com/upptime/upptime>
