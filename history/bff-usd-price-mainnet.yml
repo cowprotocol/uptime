@@ -1,7 +1,7 @@
 url: https://bff.cow.finance/1/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/usdPrice
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-14T23:16:41.383Z
+status: up
+code: 200
+responseTime: 97
+lastUpdated: 2026-04-15T13:59:18.571Z
 startTime: 2024-08-14T14:19:56.642Z
 generator: Upptime <https://github.com/upptime/upptime>
