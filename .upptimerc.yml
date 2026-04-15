@@ -7,16 +7,8 @@ sites:
 
   - name: Explorer
     url: http://explorer.cow.finance
-
-  - name: CoW Swap - Barn
-    url: https://barn.cow.finance/
-
   - name: CoW Swap - Widget
     url: https://widget.cow.finance
-
-  - name: "Explorer - Barn"
-    url: https://barn.explorer.cow.finance
-
   - name: CoW Protocol
     url: https://cow.finance
 

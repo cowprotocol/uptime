@@ -55,32 +55,6 @@
     }
   },
   {
-    "name": "CoW Swap - Barn",
-    "url": "https://barn.cow.finance/",
-    "icon": "https://icons.duckduckgo.com/ip3/barn.cow.finance.ico",
-    "slug": "co-w-swap-barn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 146,
-    "timeDay": 147,
-    "timeWeek": 206,
-    "timeMonth": 134,
-    "timeYear": 134,
-    "dailyMinutesDown": {
-      "2025-07-29": 12,
-      "2025-07-27": 23,
-      "2025-07-26": 11,
-      "2025-07-22": 33,
-      "2025-07-21": 9,
-      "2025-07-20": 29,
-      "2025-07-14": 13
-    }
-  },
-  {
     "name": "CoW Swap - Widget",
     "url": "https://widget.cow.finance",
     "icon": "https://icons.duckduckgo.com/ip3/widget.cow.finance.ico",
@@ -98,33 +72,6 @@
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-10-20": 39,
-      "2025-07-29": 12,
-      "2025-07-27": 23,
-      "2025-07-26": 11,
-      "2025-07-22": 33,
-      "2025-07-21": 9,
-      "2025-07-20": 29,
-      "2025-07-14": 14
-    }
-  },
-  {
-    "name": "Explorer - Barn",
-    "url": "https://barn.explorer.cow.finance",
-    "icon": "https://icons.duckduckgo.com/ip3/barn.explorer.cow.finance.ico",
-    "slug": "explorer-barn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 131,
-    "timeDay": 116,
-    "timeWeek": 209,
-    "timeMonth": 126,
-    "timeYear": 124,
-    "dailyMinutesDown": {
-      "2025-10-20": 46,
       "2025-07-29": 12,
       "2025-07-27": 23,
       "2025-07-26": 11,
