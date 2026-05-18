@@ -1,0 +1,31 @@
+name: Slack CI Failure Alerts
+
+on:
+  workflow_run:
+    workflows:
+      - Graphs CI
+      - Response Time CI
+      - Setup CI
+      - Static Site CI
+      - Summary CI
+      - Updates CI
+      - Update Template CI
+      - Uptime CI
+    types: [completed]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    if: github.event.workflow_run.conclusion == 'failure'
+
+    steps:
+      - name: Notify Slack
+        run: |
+          payload=$(jq -n --arg text "❌ $WORKFLOW failed on \`$BRANCH\`. <$URL|See run>." '{text: $text}')
+
+          curl -X POST -H "Content-type: application/json" --data "$payload" "$SLACK_WEBHOOK_URL"
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
+          WORKFLOW: ${{ github.event.workflow_run.name }}
+          BRANCH: ${{ github.event.workflow_run.head_branch }}
+          URL: ${{ github.event.workflow_run.html_url }}
