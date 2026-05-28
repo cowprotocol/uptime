@@ -38,7 +38,7 @@ jobs:
       # Disabled: Upptime template regeneration rewrites pinned workflow SHAs
       # and breaks org policy that requires full-length commit pins.
       # - name: Update template
-      #   uses: upptime/uptime-monitor@0b98676cda3ea664029aa354e4fab09d8b130f5f # master
+      #   uses: upptime/uptime-monitor@faa81958835a8b4f09d11805bf19f276adddae6c # v1.41.8
       #   with:
       #     command: "update-template"
       #   env:

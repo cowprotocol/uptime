@@ -34,6 +34,6 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ github.token }}
       - name: Update code
-        uses: upptime/updates@c8be3a2281e37dfb3211b7cd8f847b014e551634 # master
+        uses: upptime/updates@c8be3a2281e37dfb3211b7cd8f847b014e551634 # master (newer than the last tagged version, v1.0.1)
         env:
           GH_PAT: ${{ github.token }}
