@@ -17,11 +17,34 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     if: github.event.workflow_run.conclusion == 'failure'
+    permissions:
+      actions: read
 
     steps:
+      # Upptime calls the GitHub API before probing any endpoint, so a GitHub 5xx fails
+      # the run with no bearing on CoW uptime. Flag it so the alert says so.
+      - name: Was this a GitHub API outage?
+        id: triage
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+          REPO: ${{ github.repository }}
+        run: |
+          logs=$(gh run view "$RUN_ID" --repo "$REPO" --log-failed 2>/dev/null || true)
+          if grep -qE "RequestError \[HttpError\]" <<<"$logs" && grep -qE "status: 5[0-9][0-9]," <<<"$logs"; then
+            echo "github_fault=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "github_fault=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Notify Slack
         run: |
-          payload=$(jq -n --arg text "❌ $WORKFLOW failed on \`$BRANCH\`. <$URL|See run>." '{text: $text}')
+          if [ "$GITHUB_FAULT" = "true" ]; then
+            text="⚠️ GitHub API is unreachable, so *$WORKFLOW* could not run — can't assert CoW services uptime right now. <$URL|See run>."
+          else
+            text="❌ $WORKFLOW failed on \`$BRANCH\`. <$URL|See run>."
+          fi
+          payload=$(jq -n --arg text "$text" '{text: $text}')
 
           curl -X POST -H "Content-type: application/json" --data "$payload" "$SLACK_WEBHOOK_URL"
         env:
@@ -29,3 +52,4 @@ jobs:
           WORKFLOW: ${{ github.event.workflow_run.name }}
           BRANCH: ${{ github.event.workflow_run.head_branch }}
           URL: ${{ github.event.workflow_run.html_url }}
+          GITHUB_FAULT: ${{ steps.triage.outputs.github_fault }}
