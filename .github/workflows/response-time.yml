@@ -34,7 +34,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ github.token }}
       - name: Update response time
-        uses: upptime/uptime-monitor@15adeae83c4b1822ff9c6ddebb917b6b85b951eb # v1.43.6
+        uses: upptime/uptime-monitor@1e27390f41da4d644dd921eed19fee111bdf5c88 # v1.43.8
         with:
           command: "response-time"
         env:
