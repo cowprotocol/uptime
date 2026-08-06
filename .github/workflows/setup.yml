@@ -44,13 +44,13 @@ jobs:
       #   env:
       #     GH_PAT: ${{ github.token }}
       - name: Update response time
-        uses: upptime/uptime-monitor@65aad8bba77c40ec051f30e7329563f7f4cfab6e # v1.43.9
+        uses: upptime/uptime-monitor@c540f23fc12982bc1df4624aa428b818f2020bdd # v1.43.11
         with:
           command: "response-time"
         env:
           GH_PAT: ${{ github.token }}
       - name: Update summary in README
-        uses: upptime/uptime-monitor@65aad8bba77c40ec051f30e7329563f7f4cfab6e # v1.43.9
+        uses: upptime/uptime-monitor@c540f23fc12982bc1df4624aa428b818f2020bdd # v1.43.11
         with:
           command: "readme"
         env:
@@ -61,7 +61,7 @@ jobs:
           workflow: Graphs CI
           token: ${{ github.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@65aad8bba77c40ec051f30e7329563f7f4cfab6e # v1.43.9
+        uses: upptime/uptime-monitor@c540f23fc12982bc1df4624aa428b818f2020bdd # v1.43.11
         with:
           command: "site"
         env:
