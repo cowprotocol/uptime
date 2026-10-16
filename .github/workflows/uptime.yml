@@ -39,3 +39,5 @@ jobs:
           command: "update"
         env:
           GH_PAT: ${{ github.token }}
+          NOTIFICATION_SLACK: "true"
+          NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
