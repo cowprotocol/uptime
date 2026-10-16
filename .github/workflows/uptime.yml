@@ -33,6 +33,20 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ github.token }}
+      - name: Verify alert credentials are wired up
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
+          TELEGRAM_BOT_KEY: ${{ secrets.NOTIFICATION_TELEGRAM_BOT_KEY }}
+          TELEGRAM_CHAT_ID: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}
+        run: |
+          missing=""
+          if [ -z "$SLACK_WEBHOOK_URL" ]; then missing="$missing NOTIFICATION_SLACK_WEBHOOK_URL"; fi
+          if [ -z "$TELEGRAM_BOT_KEY" ]; then missing="$missing NOTIFICATION_TELEGRAM_BOT_KEY"; fi
+          if [ -z "$TELEGRAM_CHAT_ID" ]; then missing="$missing NOTIFICATION_TELEGRAM_CHAT_ID"; fi
+          if [ -n "$missing" ]; then
+            echo "::error::missing secrets:$missing - downtime alerts are disabled"
+            exit 1
+          fi
       - name: Check endpoint status
         uses: upptime/uptime-monitor@65aad8bba77c40ec051f30e7329563f7f4cfab6e # v1.43.9
         with:
@@ -41,3 +55,6 @@ jobs:
           GH_PAT: ${{ github.token }}
           NOTIFICATION_SLACK: "true"
           NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
+          NOTIFICATION_TELEGRAM: "true"
+          NOTIFICATION_TELEGRAM_BOT_KEY: ${{ secrets.NOTIFICATION_TELEGRAM_BOT_KEY }}
+          NOTIFICATION_TELEGRAM_CHAT_ID: ${{ secrets.NOTIFICATION_TELEGRAM_CHAT_ID }}

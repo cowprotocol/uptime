@@ -210,6 +210,3 @@ status-website:
 skipDeleteIssues: true
 delay: 2000 # 2 seconds
 runner: "ubuntu-latest"
-
-secrets:
-  - NOTIFICATION_SLACK_WEBHOOK_URL
