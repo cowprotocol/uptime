@@ -117,7 +117,7 @@ sites:
 
   - name: Quote API LINEA # USDT - USDC
     method: POST
-    url: https://api.cow.fi/linea/api/v1/quote-alert-test
+    url: https://api.cow.fi/linea/api/v1/quote
     headers: ["Content-Type: application/json"]
     body: |
       {
