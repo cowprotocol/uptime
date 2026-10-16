@@ -1,7 +1,7 @@
-url: https://api.cow.fi/linea/api/v1/quote-alert-test
-status: down
-code: 404
-responseTime: 424
-lastUpdated: 2026-10-16T16:39:17.565Z
+url: https://api.cow.fi/linea/api/v1/quote
+status: up
+code: 200
+responseTime: 2226
+lastUpdated: 2026-10-16T16:49:57.568Z
 startTime: 2025-11-27T10:05:33.839Z
 generator: Upptime <https://github.com/upptime/upptime>
