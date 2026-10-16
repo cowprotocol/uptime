@@ -321,25 +321,26 @@
   },
   {
     "name": "Quote API LINEA",
-    "url": "https://api.cow.fi/linea/api/v1/quote",
+    "url": "https://api.cow.fi/linea/api/v1/quote-alert-test",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-linea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1176,
-    "timeDay": 748,
-    "timeWeek": 661,
-    "timeMonth": 561,
-    "timeYear": 1176,
+    "time": 1174,
+    "timeDay": 681,
+    "timeWeek": 632,
+    "timeMonth": 552,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2025-12-02": 5,
       "2025-12-03": 35,
       "2025-12-15": 9,
-      "2025-12-16": 9
+      "2025-12-16": 9,
+      "2026-10-16": 1
     }
   },
   {
