@@ -321,7 +321,7 @@
   },
   {
     "name": "Quote API LINEA",
-    "url": "https://api.cow.fi/linea/api/v1/quote-alert-test",
+    "url": "https://api.cow.fi/linea/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-linea",
     "status": "down",
