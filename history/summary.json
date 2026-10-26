@@ -315,17 +315,17 @@
     "url": "https://api.cow.fi/linea/api/v1/quote",
     "icon": "https://icons.duckduckgo.com/ip3/api.cow.fi.ico",
     "slug": "quote-api-linea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
-    "time": 1149,
-    "timeDay": 1282,
-    "timeWeek": 622,
-    "timeMonth": 571,
-    "timeYear": 1149,
+    "time": 1147,
+    "timeDay": 1113,
+    "timeWeek": 620,
+    "timeMonth": 572,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2025-12-02": 5,
       "2025-12-03": 35,
@@ -333,7 +333,7 @@
       "2025-12-16": 9,
       "2026-10-16": 13,
       "2026-10-24": 49,
-      "2026-10-26": 32
+      "2026-10-26": 33
     }
   },
   {
