@@ -1,7 +1,7 @@
 url: https://api.cow.fi/solana/api/v1/quote
-status: down
-code: 500
-responseTime: 1250
-lastUpdated: 2026-10-29T13:53:37.347Z
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2026-10-29T14:00:42.557Z
 startTime: 2026-10-13T13:19:16.978Z
 generator: Upptime <https://github.com/upptime/upptime>
