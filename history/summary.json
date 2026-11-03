@@ -394,19 +394,20 @@
     "url": "https://bff.cow.fi/100/markets/0x177127622c4a00f3d409b75571e12cb3c8973d3c-0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/slippageTolerance",
     "icon": "https://icons.duckduckgo.com/ip3/bff.cow.fi.ico",
     "slug": "bff-slippage-tolerance-gnosis-chain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 678,
-    "timeWeek": 894,
-    "timeMonth": 898,
+    "timeDay": 661,
+    "timeWeek": 863,
+    "timeMonth": 891,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2026-01-12": 7
+      "2026-01-12": 7,
+      "2026-11-03": 2
     }
   },
   {
