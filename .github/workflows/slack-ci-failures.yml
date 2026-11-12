@@ -36,8 +36,11 @@ jobs:
           else
             echo "github_fault=false" >> "$GITHUB_OUTPUT"
           fi
+          # Another Upptime workflow pushed to master mid-run; the next run retries.
+          grep -qE "\[rejected\].*\(fetch first\)" <<<"$logs" && echo "push_race=true" >> "$GITHUB_OUTPUT" || true
 
       - name: Notify Slack
+        if: steps.triage.outputs.push_race != 'true'
         run: |
           if [ "$GITHUB_FAULT" = "true" ]; then
             text="⚠️ GitHub API is unreachable, so *$WORKFLOW* could not run — can't assert CoW services uptime right now. <$URL|See run>."
