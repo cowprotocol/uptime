@@ -24,19 +24,19 @@
     "url": "http://explorer.cow.fi",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.cow.fi.ico",
     "slug": "explorer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 352,
-    "timeWeek": 299,
-    "timeMonth": 271,
+    "timeDay": 265,
+    "timeWeek": 278,
+    "timeMonth": 266,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-11-16": 2
+      "2026-11-16": 7
     }
   },
   {
